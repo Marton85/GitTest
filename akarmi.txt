@@ -1,1 +1,9 @@
-akarmi 
+A napokban sokak kaphattak levelet Orbán Viktor miniszterelnöktől, „Az oltás életet ment!” tárggyal.
+Maga a levél arról szól, hogy a magyar emberek sikerrel vették fel a harcot a járvánnyal, „együtt sikerült letörnünk a járvány harmadik hullámát, és az oltásoknak köszönhetően megmentettük sok ezer honfitársunk életét”.
+Máshol viszont még mindig folyik a küzdelem, „a magyar kormány ezért felkészítette Magyarországot a negyedik hullámra”, mindenkinek jut elég vakcina, és mindenki oltassa is be magát, aki még nem tette, mert így tudjuk megvédeni az országot az újabb hullámtól.
+Van azonban a levélben egy rész, amelyen megakadt a szemünk:
+„Magyarországon az Európai Unión belül elsőként oltottunk be a népesség felénél több embert két oltással, így nekünk állnak rendelkezésre a legmegbízhatóbb adataink arról, mennyire véd az oltás az újrafertőződéstől.”
+GIT 
+TEST
+Valami 
+akármi
